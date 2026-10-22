@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+THTuW6Zuoo=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SpaceEngineers\\Bin64\\Plugins\\Local\\Respawn-Menu-Improvements Esday\\RespawnMenuImprovements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m4r1n\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
